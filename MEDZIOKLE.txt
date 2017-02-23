@@ -1,0 +1,30 @@
+1.SUkurt map, idet vandeni veliau jei nebus sunku bet manau kazkas turetu but kad ilipi ir tiesiog speed sumazeja
+-------------------------------
+2.Sukurt zmogeliuko skina
+2.1 jis turi gui,
+2.2 inventoriu
+2.3 galima padaryt kad yra dar tipo kazkokie rubai kurios gali apsirengt ir tipo kiekvienas prideda kazkokiu statsu prie tavo guy lygiu 
+tarkim ten apsimauni kokia kepure ir ten tavo visibility lygis prisideda tiek ir tiek xp ir poto nusiemus nuisima tau tas xp, ten kokie batai speed pakelia.
+-------------------------------
+3.SUkurt statu gui kaip per rs kad skilai yra tai tarp skilu galetu but apacioi isvardinti ir pradetume nuo 1 lygio ir max tarkim 50
+3.1.Skill - tai cia mazdaug butu medzioji sumedzioji gyvuna ir kuo geresni ten nusauni tuo daugiau xp duoda, kuo didesnis sitas lygis tuo geresni ginkla gali turet.
+3.2.Silence - tai cia tarkim triuksmo lygis kuo didesnis sitas tuo arciau gali priet gyvuno ir nepradeda begt jis
+3.3.Visibility - tai cia irgi turetu itakos kiek gali prie gyvuno priet kol tave pamato jis bet reiktu kazka padaryt tokio kad tipo 
+(jei gyvunas ziuri i tavo puse is kur tu ateini ir tik tada galetu bekt del invisibility o jei is nugaros eini nematytu o tik nuo sito silence lygio pabegtu)
+3.4.Speed - galetume padaryt kad tipo kiekvienas zingsnis duoda xp ir su kiekvienu lygiu tavo speed pliusinas po 1
+-------------------------------
+4.Sukurt gyvuno skina
+4.1 jis turetu turet tik statsus ir ten kazkoki tipo mode (issigandes arba neissigandes)
+4.2 statai butu kad tipo kuo didesnis gyvunas ar ten tipo rimtesnis kazkoks tai tuo toliau uzuodzia ir mato kazkas tokio ipistume kad turi pradinius statsus jis ir vsio
+4.3 Galima padaryt uz kiekviena gyvuna kad pinigu atitinkamai gauni kad nusipirkt ginkla ir kainos atitinkamai pagal sunkuma sumedziot
+4.4 Padaryt kiekvienam gyvunui hp kad is ginklo kai sauni ten rimtesni iskart nemirtu o mazesni iskart ir jei geresni ginkla turi nusauni ta rimtesni greiciau
+-------------------------------
+5.Sukurt ginklu skinus ir padaryt jiem atitinkamus skill lygius ir tarkim ginklus galima daryt kad kuo geresnis tuo daugiau dmg daro nzn reiktu dar kazka prie sito pamastyt
+5.1 kolkas galvoju gal reiktu (pistol) butu pistoletai is pradziu ir ten bbzn pradedam nuo glocko iki kokio deagle tipo ir tada sniperius gali pagooglint ir pagal stipruma
+juos padaryt nes bbzn kaip reiktu padaryt kad jei ginklas sauna daugiau nei dvi kulkas apskaiciavimui tai geriau vienas suvis viena kulka ir reload tipo
+-------------------------------
+6.Padaryt shopa
+6.1 nzn shopas galima tipo paspaudi mygtuka kazkoki ir perki arba kaip vieta kazkokia
+6.2 shope pirkt gali ginklus, rubus, galima veliau padaryt ir ten koki maista kad priviliot ta zveri bbzn.
+-------------------------------
+UZPISO GALVOT NX poto sugalvosim daugiau jei reiks :)
